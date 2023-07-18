@@ -69,7 +69,7 @@
 
 <br/>
 
-## 6. 발표 자료 및 데이터
+## 6. 발표 자료
 
 - 발표 자료    
 https://drive.google.com/file/d/1tqsU1VrPUPqiPklEI7EA7L5sDnrjC3bN/view?usp=drive_link
