@@ -26,8 +26,7 @@
 <br/>
 
 ## 4. 프로젝트 설명 
- 
-<img width="583" alt="딥러닝1" src="https://github.com/Ji-eun-Kim/Text-Data-Analytics/assets/124686375/b9da5660-e83d-4290-a8f0-9cb56fe5362f">  
+![](https://github.com/Ji-eun-Kim/Text-Data-Analytics/assets/124686375/b9da5660-e83d-4290-a8f0-9cb56fe5362f)
 
 해저에 침적되어 있는 폐기물을 실시간으로 탐지할 수 있는 딥러닝 모델을 개발하여, 침적 쓰레기를 수거하는데 보다 효율성을 증대시키기 위한 방안으로 ‘실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발’을 제안하였다. 이를 통해 침적 폐기물 수거의 증가 및 수거 인력 예산안 문제, 폐그물로프와 폐어구로 인한 선박사고 발생 문제 우려에 대한 문제점들을 해결할 수 있을 것이라 기대된다.
 
@@ -44,13 +43,7 @@
 
 
 ### <구현 예시 시각화>
-
-<img width="581" alt="딥러닝2" src="https://github.com/Ji-eun-Kim/Text-Data-Analytics/assets/124686375/8ab27274-d072-46ae-87e5-fef3c2d188c8">      <br/> 
-
-
-
-<br/> 
-
+![un](https://github.com/Ji-eun-Kim/Text-Data-Analytics/assets/124686375/8ab27274-d072-46ae-87e5-fef3c2d188c8)
   
   
 ## 5. 팀원 및 담당 역할  
