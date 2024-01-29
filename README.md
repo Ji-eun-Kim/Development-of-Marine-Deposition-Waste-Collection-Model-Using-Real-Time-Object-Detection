@@ -1,5 +1,5 @@
 <h2 align='center'> 실시간 객체 탐지를 활용한 해양침적폐기물 수거 모델 개발 </h2>
-<h3 align='center'> [전공] 딥러닝 </h3>
+<h3 align='center'> [전공] 딥러닝 Project </h3>
 <h4 align='center'> (2023.05. ~ 2023.06.) </h4>  
 
 ![Aqua Lines](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
